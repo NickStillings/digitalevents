@@ -60,7 +60,7 @@ Additionally, events for as many as 100,000 attendees for internal events in Str
 2. [Schedule the Live Event in Stream](https://docs.microsoft.com/en-us/stream/live-create-event#schedule-the-live-event)
 3. [Stream your Live Event in Microsoft Stream](https://docs.microsoft.com/en-us/stream/live-create-event#stream-your-live-event)
 
-### Technical Documentation
+### Live Events Technical Documentation
 
 - Live Events in Microsoft 365
 https://docs.microsoft.com/en-us/stream/live-event-m365
