@@ -1,5 +1,35 @@
 Managing Digital Events Workshop
 
+
+## SharePoint Spaces Resources
+SharePoint spaces is a web-based, immersive platform, which lets you create and share, secure and extensible mixed reality experiences. Add a new dimension to your intranet by using 2- and 3D web parts to create your mixed reality vision.
+
+**Digital Events with SharePoint Spaces**
+- Virtual Events using SharePoint Spaces
+http://aka.ms/SharePointSpacesVirtualConference
+- Virtual Facilities Tour with SharePoint Spaces
+https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/create-a-microsoft-teams-virtual-facilities-tour-with-sharepoint/ba-p/1379742
+
+**Overview**
+- Explore SharePoint Spaces
+https://www.exploresharepointspaces.com/
+- Overview Video
+https://youtu.be/KD5ZgYdA8f4
+- Technical Forum (very little details) https://resources.techcommunity.microsoft.com/sharepoint-spaces/c
+
+
+**End User Training**
+Start Here: [Getting Started with SharePoint Spaces](https://support.microsoft.com/en-us/office/sharepoint-spaces-7b65edfb-7cc9-42e3-af37-178d79364a5e)
+1. [Create a SharePoint space](https://support.microsoft.com/en-us/office/create-a-sharepoint-space-77e0bb2a-625e-40a9-b38e-1ca84db6cf65)
+2. [View and navigate a SharePoint space](https://support.microsoft.com/en-us/office/view-and-navigate-a-sharepoint-space-18fd62f2-c90f-416d-bbdc-0718c2792d82)
+3. [Add and use web parts in a SharePoint space](https://support.microsoft.com/en-us/office/add-and-use-web-parts-in-a-sharepoint-space-fa73244f-0512-488e-962e-4c3de32bcf2a)
+4. [Remove a web part from a SharePoint space](https://support.microsoft.com/en-us/office/remove-a-web-part-from-a-sharepoint-space-5eb25944-2d94-472b-8fe6-330f3abb0ebd)
+5. [Set up the environment in a SharePoint space](https://support.microsoft.com/en-us/office/set-up-the-environment-in-a-sharepoint-space-184ff223-01b2-4428-aaec-8895a9c4b659)
+6. [Recommendations and best practices](https://support.microsoft.com/en-us/office/sharepoint-spaces-recommendations-and-best-practices-f80459fe-aba3-48f3-a88a-4d5570d9cede)
+7. [Device support for SharePoint spaces](https://support.microsoft.com/en-us/office/device-support-for-sharepoint-spaces-dad2a35b-46cc-42a6-9474-a5c68b094f2e)
+
+
+
 ## Microsoft Lists Resources
 Microsoft Lists help you organize, collaborate, and share the information you care about. Microsoft Lists are modern SharePoint lists, they reside in SharePoint but have an improved UI and feature set. Create and share lists that help you track issues, assets, routines, contacts, inventory, and more.  In our workshop, we used the [Event Itinerary Template](https://support.microsoft.com/en-us/office/list-templates-in-microsoft-365-62f0e4cf-d55d-4f89-906f-4a34e036ded1 "Event Itinerary Template") in Microsoft lists. 
 
