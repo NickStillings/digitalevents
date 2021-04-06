@@ -19,6 +19,9 @@ Microsoft Lists help you organize, collaborate, and share the information you ca
 - [First Look at Microsoft lists](https://youtu.be/plshQSoe_OY "First Look at Microsoft lists")
 - [How to Use Microsoft Lists (Kevin Stratvert)](https://youtu.be/xKQKw_hCqko "How to Use Microsoft Lists (Kevin Stratvert)")
 
+**Technical Documentation**
+- Manage the Lists app for Your Organization
+https://docs.microsoft.com/en-us/MicrosoftTeams/manage-lists-app
 
 
 ## Microsoft Live Event Resources
