@@ -14,7 +14,22 @@ Start at the [Virtual Event Guidance](https://adoption.microsoft.com/virtual-eve
 - Live Event Reporting - https://aka.ms/TeamsLiveEventsReport
 
 
-Live Events End User Training
+**Live Event Capacity**
+Live Event Capacity until June 30, 2021
+To continue help support our customers, through June 30, 2021, we extended limit increases for live events, including:
+- 20,000 attendees
+- 50 concurrent events can be hosted simultaneously across a tenant
+- 16 hour event duration per broadcast
+
+Live Event Capacity (after July 1 2021)
+- 10,000 attendees
+- 20 concurrent events can be hosted simultaneously across a tenant
+- 4 hour event duration per broadcast
+
+Additionally, events for as many as 100,000 attendees for internal events in Stream or Yammer can be planned through the live events assistance program
+
+
+### Live Events End User Training
 
 **Teams Live Events Step-by-Step**
 [Getting Started with Teams Live Events](https://support.office.com/en-us/article/get-started-with-microsoft-teams-live-events-d077fec2-a058-483e-9ab5-1494afda578a) - All Roles
@@ -45,4 +60,22 @@ Live Events End User Training
 2. [Schedule the Live Event in Stream](https://docs.microsoft.com/en-us/stream/live-create-event#schedule-the-live-event)
 3. [Stream your Live Event in Microsoft Stream](https://docs.microsoft.com/en-us/stream/live-create-event#stream-your-live-event)
 
+### Technical Documentation
+
+- Live Events in Microsoft 365
+https://docs.microsoft.com/en-us/stream/live-event-m365
+- Live Events in Microsoft Teams
+https://docs.microsoft.com/en-us/MicrosoftTeams/teams-live-events/what-are-teams-live-events
+- Live Events in Microsoft Stream
+https://docs.microsoft.com/en-us/stream/live-event-overview
+- Live Events in Microsoft Yammer
+https://docs.microsoft.com/en-us/yammer/manage-yammer-groups/yammer-live-events
+- Microsoft 365 Live Event Assistance
+https://resources.techcommunity.microsoft.com/live-events/assistance/
+- eCDN Partners
+https://docs.microsoft.com/en-us/stream/ecdn
+- Live Event with OBS
+https://resources.techcommunity.microsoft.com/live-event-with-obs/
+- Setting Up Other External Encoders
+https://docs.microsoft.com/en-us/stream/live-encoder-setup
 
