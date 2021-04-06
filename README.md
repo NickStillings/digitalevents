@@ -1,13 +1,34 @@
 Managing Digital Events Workshop
 
+## Microsoft Lists Resources
+Microsoft Lists help you organize, collaborate, and share the information you care about. Microsoft Lists are modern SharePoint lists, they reside in SharePoint but have an improved UI and feature set. Create and share lists that help you track issues, assets, routines, contacts, inventory, and more.  In our workshop, we used the [Event Itinerary Template](https://support.microsoft.com/en-us/office/list-templates-in-microsoft-365-62f0e4cf-d55d-4f89-906f-4a34e036ded1 "Event Itinerary Template") in Microsoft lists. 
+
+**Microsoft Lists Resources**
+- Microsoft Lists Resource Center - https://aka.ms/mslists
+- Microsoft Lists Adoption Site - https://aka.ms/ListsAdoption
+- Lists Look Book - https://aka.ms/listslookbook
+- Microsoft Lists Home - https://aka.ms/ListsHome 
+
+**Microsoft Lists End User Training**
+- [Get Started with Microsoft Lists](https://support.microsoft.com/en-us/office/get-started-with-microsoft-lists-10b12560-fb20-471e-9258-773aec6a4a2f "Get Started with Microsoft Lists")
+- [Create a List from Scratch](https://support.microsoft.com/en-us/office/create-a-list-0d397414-d95f-41eb-addd-5e6eff41b083 "Create a List from Scratch")
+- [Create a List from a Template](https://support.microsoft.com/en-us/office/create-a-list-from-a-template-70b008a2-7a3d-4223-83d8-345e0313974d "Create a List from a Template")
+- [Create a List based in a spreadsheet](https://support.microsoft.com/en-us/office/create-a-list-based-on-a-spreadsheet-380cfeb5-6e14-438e-988a-c2b9bea574fa "Create a List based in a spreadsheet")
+
+**YouTube**
+- [First Look at Microsoft lists](https://youtu.be/plshQSoe_OY "First Look at Microsoft lists")
+- [How to Use Microsoft Lists (Kevin Stratvert)](https://youtu.be/xKQKw_hCqko "How to Use Microsoft Lists (Kevin Stratvert)")
+
+
+
 ## Microsoft Live Event Resources
 
 ### Microsoft 365 Live Event Guidance
-Start at the [Virtual Event Guidance](https://adoption.microsoft.com/virtual-event-guidance/ "Virtual Event Guidance") for an overview of Live Events, organized by role. The [Live Event Technical Community](https://aka.ms/VirtualEventForum "Live Event Technical Community") is a forum on Microsoft's TechCommunity site moderated by MVPs to assit with Live Events and Teams webinars. The [Live Event Assistance Program (LEAP)](https://resources.techcommunity.microsoft.com/live-events/assistance/ "Live Event Assistance Program (LEAP)") is a basic consultation with Microsoft to help you more familiar with setting up and running a live event or be directly available during a live event to help if any questions or issues come up. [Live Event Reporting](https://aka.ms/TeamsLiveEventsReport "Live Event Reporting") is a Power BI report made by Stuart Rideout to aggregate Teams Live Event reporting.
+Start at the [Virtual Event Guidance](https://adoption.microsoft.com/virtual-event-guidance/ "Virtual Event Guidance") for an overview of Live Events, organized by role. The [Live Event Technical Community](https://techcommunity.microsoft.com/t5/virtual-events-and-webinars/bd-p/TeamsVirtualEvents "Live Event Technical Community") is a forum on Microsoft's TechCommunity site moderated by MVPs to assit with Live Events and Teams webinars. The [Live Event Assistance Program (LEAP)](https://resources.techcommunity.microsoft.com/live-events/assistance/ "Live Event Assistance Program (LEAP)") is a basic consultation with Microsoft to help you more familiar with setting up and running a live event or be directly available during a live event to help if any questions or issues come up. [Live Event Reporting](https://aka.ms/TeamsLiveEventsReport "Live Event Reporting") is a Power BI report made by Stuart Rideout to aggregate Teams Live Event reporting.
 
 - Virtual Event Guidance - https://adoption.microsoft.com/virtual-event-guidance/
 
-- Live Event Technical Community Forum - https://aka.ms/VirtualEventForum
+- Live Event Technical Community - https://techcommunity.microsoft.com/t5/virtual-events-and-webinars/bd-p/TeamsVirtualEvents
 
 - Live Event Assistance Program - https://resources.techcommunity.microsoft.com/live-events/assistance
 
@@ -60,7 +81,7 @@ Additionally, events for as many as 100,000 attendees for internal events in Str
 2. [Schedule the Live Event in Stream](https://docs.microsoft.com/en-us/stream/live-create-event#schedule-the-live-event)
 3. [Stream your Live Event in Microsoft Stream](https://docs.microsoft.com/en-us/stream/live-create-event#stream-your-live-event)
 
-### Live Events Technical Documentation
+### Technical Documentation
 
 - Live Events in Microsoft 365
 https://docs.microsoft.com/en-us/stream/live-event-m365
