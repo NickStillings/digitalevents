@@ -1,5 +1,11 @@
 Managing Digital Events Workshop
 
+- Teams view-only meeting experience
+https://docs.microsoft.com/en-us/microsoftteams/view-only-meeting-experience
+- Enabling NDI in Teams
+https://support.newtek.com/hc/en-us/articles/360055420373-Microsoft-Teams-how-to-enable-NDI
+
+
 
 ## SharePoint Spaces Resources
 SharePoint spaces is a web-based, immersive platform, which lets you create and share, secure and extensible mixed reality experiences. Add a new dimension to your intranet by using 2- and 3D web parts to create your mixed reality vision.
