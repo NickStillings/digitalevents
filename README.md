@@ -1,4 +1,21 @@
 Managing Digital Events Workshop
+## Presenter Resources
+- PowerPoint Presenter Coach
+https://aka.ms/presentercoach
+- [Tips for creating and delivering an effective presentation](https://support.microsoft.com/en-us/office/tips-for-creating-and-delivering-an-effective-presentation-f43156b0-20d2-4c51-8345-0c337cefb88b?ui=en-us&rs=en-us&ad=us#bm2 "Tips for creating and delivering an effective presentation")
+
+**Instructor-led training for Microsoft Teams**
+https://aka.ms/teamslivetraining
+Live, online training classes designed to get up and running with Teams. Join us to see Teams in action, get your questions answered, and interact with our live instructors. Click a session below to sign up.
+- [Get started with Teams](https://aka.ms/GetstartedwithMSTeams) - From chatting and meetings to using teams and channels, users will leave this session with the foundation to use Teams with confidence. (Audience: Everyone)
+- [Use chat and calling in Teams](https://aka.ms/ChatCallingInTeams) - Learn how to manage all your conversations from one central platform. (Audience: Everyone)
+- [Run effective meetings with Teams](https://aka.ms/RunmeetingsTeams) - Learn how to make your meetings more engaging, productive, and meaningful. (Audience: Everyone)
+- [Explore teams and channels in Teams](https://aka.ms/TeamsandchannelsinTeams) - Learn how you can streamline your project and workgroup collaboration. (Audience: Everyone)
+- [Build collaborative workspaces in Teams](https://aka.ms/CollaborateInTeams) - Explore ways to determine the best approach for creating workspaces for projects and workgroups. (Audience: Everyone)
+- [Leverage pro tips in Teams](https://aka.ms/TeamsProTips) - Learn how Teams can help organize your workday and make it easier to stay connected with colleagues. (Audience: Everyone)
+- [Master working from home with Teams](https://aka.ms/WFHTeams) - Learn best practices for staying connect to your team and maintaining productivity. (Audience: Everyone)
+- [Learn To Use Apps In Teams](https://microsoftteams.eventbuilder.com/learnapps) - Learn how to get started with adding applications, bots and connectors in Microsoft Teams
+
 
 - Teams view-only meeting experience
 https://docs.microsoft.com/en-us/microsoftteams/view-only-meeting-experience
