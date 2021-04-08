@@ -1,5 +1,14 @@
 Managing Digital Events Workshop
 
+
+
+
+## Teams Apps for Meetings##
+- [Poll Attendees during a Meeting](https://support.microsoft.com/en-us/office/poll-attendees-during-a-teams-meeting-9923b7d4-ea97-4aa2-b8b8-b45fefe7d454 "Poll Attendees during a Meeting")
+- [Teams Apps for Meetings](https://www.microsoft.com/en-us/microsoft-teams/meetings-apps "Teams Apps for Meetings") (List of Apps)
+- [Using Microsoft Teams apps for meetings](https://youtu.be/nKAy5rNDus4 "Using Microsoft Teams apps for meetings") (YouTube Overview)
+
+
 ## Microsoft Teams Webinar Resources
 
 **New Capabilities Announced at Microsoft Ignite March 2021**
@@ -153,12 +162,23 @@ Additionally, events for as many as 100,000 attendees for internal events in Str
 3. [Stream your Live Event in Microsoft Stream](https://docs.microsoft.com/en-us/stream/live-create-event#stream-your-live-event)
 
 ### Advanced Production
-- Use NDI in Teams
-https://docs.microsoft.com/en-US/microsoftteams/use-ndi-in-meetings
-- Enabling NDI in Teams
-https://support.newtek.com/hc/en-us/articles/360055420373-Microsoft-Teams-how-to-enable-NDI
-Broadcasting audio and video from Teams with NDI technology
-https://support.microsoft.com/en-us/office/broadcasting-audio-and-video-from-teams-with-ndi-technology-e91a0adb-96b9-4dca-a2cd-07181276afa3
+
+**NewTek NDI™**
+- NewTek NDI Applications
+https://www.newtek.com/ndi/applications
+- [Microsoft Technical Documentation - Use NDI in Teams](https://docs.microsoft.com/en-US/microsoftteams/use-ndi-in-meetings "- Microsoft Documentation - Use NDI in Teams")
+- [NewTek Technical Documentation: Enabling NDI in Teams](https://support.newtek.com/hc/en-us/articles/360055420373-Microsoft-Teams-how-to-enable-NDI "NewTek Documentation: Enabling NDI in Teams")
+- [Microsoft Support - Broadcasting audio and video from Teams with NDI technology](https://support.microsoft.com/en-us/office/broadcasting-audio-and-video-from-teams-with-ndi-technology-e91a0adb-96b9-4dca-a2cd-07181276afa3 "Broadcasting audio and video from Teams with NDI technology")
+
+**OBS Studio®️**
+- Open Broadcaster Software®️
+https://obsproject.com
+- [Live Events with OBS](https://resources.techcommunity.microsoft.com/live-event-with-obs/ "Live Events with OBS")
+- [Collab 365: Using OBS Studio with Microsoft Teams](https://collab365.com/using-obs-studio-with-microsoft-teams/ "Collab 365: Using OBS Studio with Microsoft Teams")
+
+**John Moore YouTube Channel**
+- [Build your live stream with Microsoft Teams NDI and OBS Studio](https://youtu.be/ngLfEVU46x0 "Build your live stream with Microsoft Teams NDI and OBS Studio")
+(His channel is a fantastic collection of tips on Teams, Live Events, Meetings, and More)
 
 ### Technical Documentation
 
