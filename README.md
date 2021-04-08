@@ -156,3 +156,4 @@ https://resources.techcommunity.microsoft.com/live-event-with-obs/
 - Setting Up Other External Encoders
 https://docs.microsoft.com/en-us/stream/live-encoder-setup
 
+d
