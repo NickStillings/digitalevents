@@ -1,8 +1,26 @@
 Managing Digital Events Workshop
+
+## Microsoft Teams Webinar Resources
+
+**New Capabilities Announced at Microsoft Ignite March 2021**
+- [Teams Meetings Capabilities](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/what-s-new-in-microsoft-teams-microsoft-ignite-2021/ba-p/2118226#meetings "What's New in Teams Meetings"): Dynamic View, View Switcher, Presenter Mode, PowerPoint Live, Live Reactions (Ignite 2021 Announcement)
+- [Teams Webinar Capabilities](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/what-s-new-in-microsoft-teams-microsoft-ignite-2021/ba-p/2118226#meetings "Teams Webinar Capabilities"): Attendee Registration, Email Confirmation, 1000 Person Meetings, 20,000 Person "overflow", Attendee Reporting, Dynamics Marketing Integration  (Ignite 2021 Announcement)
+
+**Product Demonstrations**
+- [Microsoft Mechanics: Host Webinars in Teams](https://youtu.be/Q7ptat6LoVc "Microsoft Mechanics: Host Webinars in Teams")
+- [Microsoft Ignite: Webinars with Microsoft Teams](https://myignite.microsoft.com/sessions/93c7b136-8d3b-4135-8374-966ee16986fb?source=sessions "Microsoft Ignite: Webinars with Microsoft Teams")
+
+**Resources**
+- [Virtual Event Technical Community](https://techcommunity.microsoft.com/t5/virtual-events-and-webinars/bd-p/TeamsVirtualEvents "Virtual Event Technical Community")
+
 ## Presenter Resources
-- PowerPoint Presenter Coach
-https://aka.ms/presentercoach
+- [PowerPoint Presenter Coach](https://aka.ms/presentercoach "PowerPoint Presenter Coach")
 - [Tips for creating and delivering an effective presentation](https://support.microsoft.com/en-us/office/tips-for-creating-and-delivering-an-effective-presentation-f43156b0-20d2-4c51-8345-0c337cefb88b?ui=en-us&rs=en-us&ad=us#bm2 "Tips for creating and delivering an effective presentation")
+- [LinkedIn Learning: Executive Presence on Video Conference Calls](https://www.linkedin.com/learning/executive-presence-on-video-conference-calls/ "LinkedIn Learning: Executive Presence on Video Conference Calls (30 Minutes)")
+- [LinkedIn Learning: Creating a Basic Lighting Setup](https://www.linkedin.com/learning/web-video-lighting/creating-a-basic-lighting-setup-in-a-home-or-office "LinkedIn Learning: Creating a Basic Lighting Setup")
+- [Microsoft Teams Help and Learning](https://support.microsoft.com/en-us/teams "Microsoft Teams Help and Learning") (see section on Meetings)
+
+
 
 **Instructor-led training for Microsoft Teams**
 https://aka.ms/teamslivetraining
@@ -17,10 +35,7 @@ Live, online training classes designed to get up and running with Teams. Join us
 - [Learn To Use Apps In Teams](https://microsoftteams.eventbuilder.com/learnapps) - Learn how to get started with adding applications, bots and connectors in Microsoft Teams
 
 
-- Teams view-only meeting experience
-https://docs.microsoft.com/en-us/microsoftteams/view-only-meeting-experience
-- Enabling NDI in Teams
-https://support.newtek.com/hc/en-us/articles/360055420373-Microsoft-Teams-how-to-enable-NDI
+
 
 
 
@@ -136,6 +151,14 @@ Additionally, events for as many as 100,000 attendees for internal events in Str
 1. [How to Create a Live Event in Microsoft Stream](https://docs.microsoft.com/en-us/stream/live-create-event)
 2. [Schedule the Live Event in Stream](https://docs.microsoft.com/en-us/stream/live-create-event#schedule-the-live-event)
 3. [Stream your Live Event in Microsoft Stream](https://docs.microsoft.com/en-us/stream/live-create-event#stream-your-live-event)
+
+### Advanced Production
+- Use NDI in Teams
+https://docs.microsoft.com/en-US/microsoftteams/use-ndi-in-meetings
+- Enabling NDI in Teams
+https://support.newtek.com/hc/en-us/articles/360055420373-Microsoft-Teams-how-to-enable-NDI
+Broadcasting audio and video from Teams with NDI technology
+https://support.microsoft.com/en-us/office/broadcasting-audio-and-video-from-teams-with-ndi-technology-e91a0adb-96b9-4dca-a2cd-07181276afa3
 
 ### Technical Documentation
 
