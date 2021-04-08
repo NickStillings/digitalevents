@@ -23,18 +23,19 @@ Managing Digital Events Workshop
 - [Virtual Event Technical Community](https://techcommunity.microsoft.com/t5/virtual-events-and-webinars/bd-p/TeamsVirtualEvents "Virtual Event Technical Community")
 
 ## Digital Event Speaker Resources
+
 **General Resources**
-- [PowerPoint Presenter Coach](https://aka.ms/presentercoach "PowerPoint Presenter Coach")
+- [Microsoft Teams Help and Learning](https://support.microsoft.com/en-us/teams "Microsoft Teams Help and Learning") (see section on Meetings)
+- [PowerPoint Help and Learning](https://support.microsoft.com/en-us/powerpoint "PowerPoint Help and Learning") (review the section under Present)
+- [PowerPoint Presenter Coach](https://aka.ms/presentercoach "PowerPoint Presenter Coach") (use AI to practice and get feedback)
 - [Tips for creating and delivering an effective presentation](https://support.microsoft.com/en-us/office/tips-for-creating-and-delivering-an-effective-presentation-f43156b0-20d2-4c51-8345-0c337cefb88b?ui=en-us&rs=en-us&ad=us#bm2 "Tips for creating and delivering an effective presentation")
 - [LinkedIn Learning: Executive Presence on Video Conference Calls](https://www.linkedin.com/learning/executive-presence-on-video-conference-calls/ "LinkedIn Learning: Executive Presence on Video Conference Calls (30 Minutes)")
 - [LinkedIn Learning: Creating a Basic Lighting Setup](https://www.linkedin.com/learning/web-video-lighting/creating-a-basic-lighting-setup-in-a-home-or-office "LinkedIn Learning: Creating a Basic Lighting Setup")
-- [Microsoft Teams Help and Learning](https://support.microsoft.com/en-us/teams "Microsoft Teams Help and Learning") (see section on Meetings)
 
 
-
-**Instructor-led training for Microsoft Teams**
+**Instructor-led Training for Microsoft Teams**
 https://aka.ms/teamslivetraining
-Live, online training classes designed to get up and running with Teams. Join us to see Teams in action, get your questions answered, and interact with our live instructors. Click a session below to sign up.
+Live, online training classes designed to get up and running with Teams. Join us to see Teams in action, get your questions answered, and interact with our live instructors. Consider sharing these with your users or even holding a "watch party" instead of creating one-off training. Click a session below to sign up.
 - [Get started with Teams](https://aka.ms/GetstartedwithMSTeams) - From chatting and meetings to using teams and channels, users will leave this session with the foundation to use Teams with confidence. (Audience: Everyone)
 - [Use chat and calling in Teams](https://aka.ms/ChatCallingInTeams) - Learn how to manage all your conversations from one central platform. (Audience: Everyone)
 - [Run effective meetings with Teams](https://aka.ms/RunmeetingsTeams) - Learn how to make your meetings more engaging, productive, and meaningful. (Audience: Everyone)
@@ -43,8 +44,6 @@ Live, online training classes designed to get up and running with Teams. Join us
 - [Leverage pro tips in Teams](https://aka.ms/TeamsProTips) - Learn how Teams can help organize your workday and make it easier to stay connected with colleagues. (Audience: Everyone)
 - [Master working from home with Teams](https://aka.ms/WFHTeams) - Learn best practices for staying connect to your team and maintaining productivity. (Audience: Everyone)
 - [Learn To Use Apps In Teams](https://microsoftteams.eventbuilder.com/learnapps) - Learn how to get started with adding applications, bots and connectors in Microsoft Teams
-
-
 
 
 
@@ -76,6 +75,14 @@ Start Here: [Getting Started with SharePoint Spaces](https://support.microsoft.c
 6. [Recommendations and best practices](https://support.microsoft.com/en-us/office/sharepoint-spaces-recommendations-and-best-practices-f80459fe-aba3-48f3-a88a-4d5570d9cede)
 7. [Device support for SharePoint spaces](https://support.microsoft.com/en-us/office/device-support-for-sharepoint-spaces-dad2a35b-46cc-42a6-9474-a5c68b094f2e)
 
+
+## Microsoft Forms and Power Automate Resources##
+With Microsoft Forms, you can create surveys, quizzes, and polls, invite others to respond to it using almost any web browser or mobile device, see real-time results as they're submitted, use built-in analytics to evaluate responses, and export results to Excel or use as triggers in Power Automate.  Power Automate lets you streamline repetitive tasks and paperless processes.
+
+- [Microsoft Forms Help and Learning](https://support.microsoft.com/en-us/forms "Microsoft Forms Help and Learning")
+- [Microsoft Forms Training](https://support.microsoft.com/en-us/office/create-a-new-form-or-quiz-3c39c220-e30e-401d-bb6f-c1861d5aea01 "Microsoft Forms Training")
+- [Power Automate Documentation](https://docs.microsoft.com/en-us/power-automate/?utm_source=flow-sidebar&utm_medium=web "Power Automate Documentation")
+- [Learning Pathway: Get started with Power Automate](https://docs.microsoft.com/en-us/learn/modules/get-started-flows/ "Learning Pathway: Get started with Power Automate")
 
 
 ## Microsoft Lists Resources
