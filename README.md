@@ -23,6 +23,7 @@ Managing Digital Events Workshop
 - [Virtual Event Technical Community](https://techcommunity.microsoft.com/t5/virtual-events-and-webinars/bd-p/TeamsVirtualEvents "Virtual Event Technical Community")
 
 ## Digital Event Speaker Resources
+**General Resources**
 - [PowerPoint Presenter Coach](https://aka.ms/presentercoach "PowerPoint Presenter Coach")
 - [Tips for creating and delivering an effective presentation](https://support.microsoft.com/en-us/office/tips-for-creating-and-delivering-an-effective-presentation-f43156b0-20d2-4c51-8345-0c337cefb88b?ui=en-us&rs=en-us&ad=us#bm2 "Tips for creating and delivering an effective presentation")
 - [LinkedIn Learning: Executive Presence on Video Conference Calls](https://www.linkedin.com/learning/executive-presence-on-video-conference-calls/ "LinkedIn Learning: Executive Presence on Video Conference Calls (30 Minutes)")
