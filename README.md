@@ -3,7 +3,7 @@ Managing Digital Events Workshop
 
 
 
-## Teams Apps for Meetings##
+## Teams Apps for Meetings
 - [Poll Attendees during a Meeting](https://support.microsoft.com/en-us/office/poll-attendees-during-a-teams-meeting-9923b7d4-ea97-4aa2-b8b8-b45fefe7d454 "Poll Attendees during a Meeting")
 - [Teams Apps for Meetings](https://www.microsoft.com/en-us/microsoft-teams/meetings-apps "Teams Apps for Meetings") (List of Apps)
 - [Using Microsoft Teams apps for meetings](https://youtu.be/nKAy5rNDus4 "Using Microsoft Teams apps for meetings") (YouTube Overview)
