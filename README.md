@@ -1,6 +1,7 @@
 Managing Digital Events Workshop
 
-
+[Digital Events overview](https://github.com/NickStillings/digitalevents/wiki/Digital-Events) | [Speaker Readiness](https://github.com/NickStillings/digitalevents/wiki/Speaker-Readiness) | Digital Event Planning
+--- | --- | ---
 
 
 ## Teams Apps for Meetings
