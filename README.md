@@ -1,6 +1,10 @@
 Managing Digital Events Workshop
 
-[Digital Events](https://github.com/NickStillings/digitalevents/wiki/Digital-Events) | [Speaker Readiness](https://github.com/NickStillings/digitalevents/wiki/Speaker-Readiness) | Digital Event Planning
+[Digital Events](https://github.com/NickStillings/digitalevents/wiki/Digital-Events) | [Speaker Readiness](https://github.com/NickStillings/digitalevents/wiki/Speaker-Readiness) | [Digital Event Planning](https://github.com/NickStillings/digitalevents/wiki/Event-Planning "Digital Event Planning")
+--- | --- | ---
+
+
+[Digital Events](https://github.com/NickStillings/digitalevents/wiki/Digital-Events) | [Speaker Readiness](https://github.com/NickStillings/digitalevents/wiki/Speaker-Readiness) | [Digital Event Planning](https://github.com/NickStillings/digitalevents/wiki/Event-Planning "Digital Event Planning")
 --- | --- | ---
 
 
