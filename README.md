@@ -1,4 +1,4 @@
-[Digital Events](https://github.com/NickStillings/digitalevents/wiki/Digital-Events) | [Speaker Readiness](https://github.com/NickStillings/digitalevents/wiki/Speaker-Readiness) | [Event Planning](https://github.com/NickStillings/digitalevents/wiki/Event-Planning "Digital Event Planning") | [Live Event Broadcasts](https://github.com/NickStillings/digitalevents/wiki/Live-Event-Broadcasts "Live Event Broadcasts") | [Webinars with Teams](https://github.com/NickStillings/digitalevents/wiki/Webinars-with-Teams "Webinars with Teams")
+[Digital Events](https://github.com/NickStillings/digitalevents/wiki/Digital-Events) | [Event Planning](https://github.com/NickStillings/digitalevents/wiki/Event-Planning "Digital Event Planning") | [Speaker Readiness](https://github.com/NickStillings/digitalevents/wiki/Speaker-Readiness) | [Webinars](https://github.com/NickStillings/digitalevents/wiki/Webinars-with-Teams "Webinars with Teams")| [Live Events](https://github.com/NickStillings/digitalevents/wiki/Live-Event-Broadcasts "Live Event Broadcasts") 
 --- | --- | --- | --- | --- |
 
 
