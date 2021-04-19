@@ -1,5 +1,5 @@
-[Digital Events](https://github.com/NickStillings/digitalevents/wiki/Digital-Events) | [Speaker Readiness](https://github.com/NickStillings/digitalevents/wiki/Speaker-Readiness) | [Digital Event Planning](https://github.com/NickStillings/digitalevents/wiki/Event-Planning "Digital Event Planning")
---- | --- | ---
+[Digital Events](https://github.com/NickStillings/digitalevents/wiki/Digital-Events) | [Speaker Readiness](https://github.com/NickStillings/digitalevents/wiki/Speaker-Readiness) | [Event Planning](https://github.com/NickStillings/digitalevents/wiki/Event-Planning "Digital Event Planning") | [Live Event Broadcasts](https://github.com/NickStillings/digitalevents/wiki/Live-Event-Broadcasts "Live Event Broadcasts") | [Webinars with Teams](https://github.com/NickStillings/digitalevents/wiki/Webinars-with-Teams "Webinars with Teams")
+--- | --- | --- | --- | --- |
 
 
 ## Teams Apps for Meetings
