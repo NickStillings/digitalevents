@@ -1,5 +1,5 @@
-Digital Event Planning | Digital Event Venues | Speaker Preparation | Webinars in Teams | M365 Live Events
----|---|---|---|---
+Digital Event Planning | Digital Event Venues | Speaker Preparation | Webinars in Teams | M365 Live Events | Digital Toolkit
+---|---|---|---|---|---
 
 
 ## Digital Events Overview
