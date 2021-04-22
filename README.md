@@ -1,5 +1,5 @@
-Digital Event PLanning | Digital Event Venue | Speaker Prep | Webinars | Live Events
-------|------|------|------|------|------
+Event Planning | Event Venue | Speaker Prep | Webinars | Live Events
+---|---|---|---|---
 
 
 ## Digital Events Overview
