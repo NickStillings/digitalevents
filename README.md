@@ -15,7 +15,7 @@ Large events and conferences are still valuable for employee and external engage
 ***
 
 
-## Microsoft MVP Summit, RD Summit, and Build
+## Case Study: Microsoft MVP/RD Summit and Build
 
 The COVID-19 pandemic quarantine went into place just a few weeks before Microsoft&#39;s annual Most Valuable Professional (MVP)/Regional Director (RD) Summit, planned for March 2020. This event brings together Microsoft executives, product leaders and developers with our Most Valuable Professional (MVP) and Regional Director (RD) communities and serves all Microsoft product areas including Azure, Microsoft 365 and Business Applications Groups. With planning horizon of only a few weeks, we shifted to summit to a Digital Event, producing the event with Microsoft Teams and hosting the Summit in a Microsoft Team in Microsoft&#39;s production environment.
 
