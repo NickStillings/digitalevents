@@ -1,3 +1,7 @@
+Digital Event PLanning | Digital Event Venue | Speaker Prep | Webinars | Live Events
+------|------|------|------|------|------
+
+
 ## Digital Events Overview
 Large events and conferences are still valuable for employee and external engagement, but the format has changed with COVID-19. Digital events in Microsoft Teams can be a single webinar, a large interactive meeting, an all-hands broadcast, or a multi-session, multi-track digital experience.  Microsoft Teams includes built-in capabilities for interactive meetings, large group meetings, and webinars. In this session we'll see how these capabilities come together with out-of-the-box Microsoft 365 solutions. 
 
