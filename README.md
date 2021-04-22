@@ -1,4 +1,5 @@
-For the intents of this toolkit, Digital Events refers a continuum of meetings, webinars, and virtual conferences. There are different decision points, tools, readiness, and planning needed depend on the scope of your event.
+## Digital Events Overview
+Large events and conferences are still valuable for employee and external engagement, but the format has changed with COVID-19. Digital events in Microsoft Teams can be a single webinar, a large interactive meeting, an all-hands broadcast, or a multi-session, multi-track digital experience.  Microsoft Teams includes built-in capabilities for interactive meetings, large group meetings, and webinars. In this session we'll see how these capabilities come together with out-of-the-box Microsoft 365 solutions. 
 
 ![A continuum of types of digital events](https://github.com/NickStillings/digitalevents/blob/main/Wiki%20Images/wiki.digitalevents.2.continuum.jpg)
 
