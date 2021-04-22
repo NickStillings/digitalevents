@@ -1,6 +1,8 @@
-Digital Event Planning | Digital Event Venues | Speaker Preparation | Webinars in Teams | M365 Live Events | Digital Toolkit
+[Digital Event Planning](https://github.com/NickStillings/digitalevents/wiki/Digital-Event-Planning) | [Digital Event Venue](https://github.com/NickStillings/digitalevents/wiki/Digital-Event-Venue) | [Speaker Readiness](https://github.com/NickStillings/digitalevents/wiki/Speaker-Readiness) | [Webinars in Teams](https://github.com/NickStillings/digitalevents/wiki/Webinars-in-Teams) | [M365 Live Events](https://github.com/NickStillings/digitalevents/wiki/M365-Live-Events) | [Digital Event Toolkit](https://github.com/NickStillings/digitalevents/tree/main/Digital%20Toolkit)
 ---|---|---|---|---|---
 
+
+***
 
 ## Digital Events Overview
 Large events and conferences are still valuable for employee and external engagement, but the format has changed with COVID-19. Digital events in Microsoft Teams can be a single webinar, a large interactive meeting, an all-hands broadcast, or a multi-session, multi-track digital experience.  Microsoft Teams includes built-in capabilities for interactive meetings, large group meetings, and webinars. In this session we'll see how these capabilities come together with out-of-the-box Microsoft 365 solutions. 
