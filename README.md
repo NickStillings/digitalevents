@@ -1,6 +1,5 @@
-[Digital Event Planning](https://github.com/NickStillings/digitalevents/wiki/Digital-Event-Planning) | [Digital Event Venue](https://github.com/NickStillings/digitalevents/wiki/Digital-Event-Venue) | [Speaker Readiness](https://github.com/NickStillings/digitalevents/wiki/Speaker-Readiness) | [Webinars in Teams](https://github.com/NickStillings/digitalevents/wiki/Webinars-in-Teams) | [M365 Live Events](https://github.com/NickStillings/digitalevents/wiki/M365-Live-Events) | [Digital Event Toolkit](https://github.com/NickStillings/digitalevents/tree/main/Digital%20Toolkit)
----|---|---|---|---|---
-
+[Digital Events Overview](https://github.com/NickStillings/digitalevents/) | [Digital Event Planning](https://github.com/NickStillings/digitalevents/wiki/Digital-Event-Planning) | [Digital Event Venue](https://github.com/NickStillings/digitalevents/wiki/Digital-Event-Venue) | [Speaker Readiness](https://github.com/NickStillings/digitalevents/wiki/Speaker-Readiness) | [Webinars in Teams](https://github.com/NickStillings/digitalevents/wiki/Webinars-in-Teams) | [M365 Live Events](https://github.com/NickStillings/digitalevents/wiki/M365-Live-Events) | [Digital Event Toolkit](https://github.com/NickStillings/digitalevents/tree/main/Digital%20Toolkit)
+---|---|---|---|---|---|---
 
 ***
 
