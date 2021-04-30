@@ -2,6 +2,15 @@
 ---|---|---|---|---|---|---
 
 ***
+##MN 365 User Group Admin Workshop Day
+Thanks for joining the session at the MN 365 Admin Workshop Day! Here's the questions from chat that Nick couldn't get to:
+
+- What solutions are there for users in a Low Bandwith situation (e.g. VPN) - Jessica H
+- Do live captions work for everyone (guests, people joining in web client, etc)? We had some issues in the past with guests being able to enable live captiosn. - Tark S
+- What is the Attendee experience for View-Only Overview in regards to their identity - if they are anonymous users, guest users, etc. does that impact how the View-Only experience works? - Tim 
+- Is there a way to send an email to Schedule a Meeting - Jason H
+- What's the link to that View-Only PowerShell comment? - Multiple
+- Can we "lock" a meeting and prevent new attendees from joining - Brian C
 
 
 ***
