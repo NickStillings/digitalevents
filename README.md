@@ -34,7 +34,8 @@ Check out https://docs.microsoft.com/en-us/microsoftteams/view-only-meeting-expe
 
 #### Is there a way to send an email to Schedule a Meeting - Jason H
 Yes, a lot of us Microsoft folks use https://findtime.microsoft.com. You need an Office 365 subscription to schedule it, but attendee don't to reply. If you want a non-O365 dependant service for private life, take a look at doodle.com. 
-- Can we "lock" a meeting and prevent new attendees from joining - Brian C
+
+#### Can we "lock" a meeting and prevent new attendees from joining - Brian C
 It's on the roadmap! (the perpetual cry of the cloud vendor!!) Check here Brian: https://www.microsoft.com/en-in/microsoft-365/roadmap?featureid=80669 Good to see you, thanks for the shout out!
 
 
