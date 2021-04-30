@@ -3,22 +3,18 @@
 
 ***
 
-##Adoption Resources for Virtual Events and Meetings
 
+***
+
+## Adoption Resources for Digital Events
 Please bookmark these resources on the Microsoft 365 Adoption site. Sponsored by the Microsoft Teams Customer Advocacy Group, these resources compliment our technical documentation with guidance and best practices for adoption and usage of Microsoft Teams. 
 
-Meetings and Webinars in Microsoft Teams  - Main landing page
-Meetings in Microsoft Teams
-Webinars in Microsoft Teams
-Live Events in Microsoft Teams
+**[Meetings and Webinars in Microsoft Teams](https://adoption.microsoft.com/meetings-and-webinars-in-microsoft-teams/) (Main Site)**
+* [Meetings in Teams](https://adoption.microsoft.com/meetings-and-webinars-in-microsoft-teams/meetings/)
+* [Webinars in Microsoft Teams](https://adoption.microsoft.com/meetings-and-webinars-in-microsoft-teams/webinars/)
+* [Live Events in Microsoft Teams](https://adoption.microsoft.com/virtual-event-guidance/)
 
-
-
-
-Technical Community for Virtual Events and Meetings
-
-Meetings and Virtual Event Tech Community  - Tech Community forum for IT Pros
-
+**[Meetings and Virtual Event Tech Community ](https://techcommunity.microsoft.com/t5/virtual-events-and-webinars/bd-p/TeamsVirtualEvents) (Tech Community forum for IT Pros)**
 
 
 ***
