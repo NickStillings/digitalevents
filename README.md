@@ -8,13 +8,10 @@ Thanks for joining the session at the MN 365 Admin Workshop Day! below are the q
 #### Virtual Event Ask Us Anything
 Join us for a Microsoft Teams ‘Ask Microsoft Anything’ (AMA) for Virtual Events.  This AMA gives you the opportunity to connect with members of the product engineering team who will be on hand to answer your questions and listen to feedback.
 
-**Date: Wednesday, May 5, 2021**
-
-**Time**: 11:00 a.m. to 12:00 p.m. Central Time
-
-**Location**: [Microsoft Teams AMA Space](https://techcommunity.microsoft.com/t5/microsoft-teams-ama/bd-p/MicrosoftTeamsAMA)
-
-**Details**: [Virtual Event Tech Community Announcement](https://techcommunity.microsoft.com/t5/virtual-events-and-webinars/announcing-a-microsoft-teams-ama-for-virtual-evets-in-microsoft/m-p/2295175)
+- **Date: Wednesday, May 5, 2021**
+- **Time**: 11:00 a.m. to 12:00 p.m. Central Time
+- **Location**: [Microsoft Teams AMA Space](https://techcommunity.microsoft.com/t5/microsoft-teams-ama/bd-p/MicrosoftTeamsAMA)
+- **Details**: [Virtual Event Tech Community Announcement](https://techcommunity.microsoft.com/t5/virtual-events-and-webinars/announcing-a-microsoft-teams-ama-for-virtual-evets-in-microsoft/m-p/2295175)
 
 #### What solutions are there for users in a Low Bandwith situation (e.g. VPN) - Jessica H
 Great question, most of the answer is "it depends" because there are multiple things impacting bandwith.
@@ -30,13 +27,16 @@ Great question, most of the answer is "it depends" because there are multiple th
 - The attendees Join the meeting, then placed into View Only. So Tim they'd have to complete the meeting join experience (permissions, lobby experience) before getting to where Teams says "oh, meeting is full, here's view-only". So if you schedule a meeting, don't allow forwarding of the invite, and turn on meeting lobby: Attendee 1001 would need to be on the invite list, and admitted thru the lobby, then would get view only.  Pretty darn sure that will be the experience but please refer to docs and message center for actual details :-)
 
 #### What's the link to that View-Only PowerShell comment? - Multiple people
-Check out https://docs.microsoft.com/en-us/microsoftteams/view-only-meeting-experience. Note that View Only is still rolling out for GCC, and hasn't released for the DoD tenant (if you're doing a webinar with Federal employees)
+- Check out https://docs.microsoft.com/en-us/microsoftteams/view-only-meeting-experience.
+- Note that View Only is still rolling out for GCC, and hasn't released for the DoD tenant (if you're doing a webinar with Federal employees)
 
 #### Is there a way to send an email to Schedule a Meeting - Jason H
-Yes, a lot of us Microsoft folks use https://findtime.microsoft.com. You need an Office 365 subscription to schedule it, but attendee don't to reply. If you want a non-O365 dependant service for private life, take a look at doodle.com. 
+- Yes, a lot of us Microsoft folks use https://findtime.microsoft.com. You need an Office 365 subscription to schedule it, but attendee don't to reply. 
+- If you want a non-O365 dependant service for private life, take a look at doodle.com. 
 
 #### Can we "lock" a meeting and prevent new attendees from joining - Brian C
-It's on the roadmap! (the perpetual cry of the cloud vendor!!) Check here Brian: https://www.microsoft.com/en-in/microsoft-365/roadmap?featureid=80669 Good to see you, thanks for the shout out!
+- It's on the roadmap! (the perpetual cry of the cloud vendor!!)
+- Check here Brian: https://www.microsoft.com/en-in/microsoft-365/roadmap?featureid=80669 Good to see you, thanks for the shout out!
 
 
 ***
