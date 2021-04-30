@@ -9,8 +9,11 @@ Thanks for joining the session at the MN 365 Admin Workshop Day! below are the q
 Join us for a Microsoft Teams ‘Ask Microsoft Anything’ (AMA) for Virtual Events.  This AMA gives you the opportunity to connect with members of the product engineering team who will be on hand to answer your questions and listen to feedback.
 
 **Date: Wednesday, May 5, 2021**
+
 **Time**: 11:00 a.m. to 12:00 p.m. Central Time
+
 **Location**: [Microsoft Teams AMA Space](https://techcommunity.microsoft.com/t5/microsoft-teams-ama/bd-p/MicrosoftTeamsAMA)
+
 **Details**: [Virtual Event Tech Community Announcement](https://techcommunity.microsoft.com/t5/virtual-events-and-webinars/announcing-a-microsoft-teams-ama-for-virtual-evets-in-microsoft/m-p/2295175)
 
 #### What solutions are there for users in a Low Bandwith situation (e.g. VPN) - Jessica H
