@@ -3,6 +3,26 @@
 
 ***
 
+##Adoption Resources for Virtual Events and Meetings
+
+Please bookmark these resources on the Microsoft 365 Adoption site. Sponsored by the Microsoft Teams Customer Advocacy Group, these resources compliment our technical documentation with guidance and best practices for adoption and usage of Microsoft Teams. 
+
+Meetings and Webinars in Microsoft Teams  - Main landing page
+Meetings in Microsoft Teams
+Webinars in Microsoft Teams
+Live Events in Microsoft Teams
+
+
+
+
+Technical Community for Virtual Events and Meetings
+
+Meetings and Virtual Event Tech Community  - Tech Community forum for IT Pros
+
+
+
+***
+
 ## Digital Events Overview
 Large events and conferences are still valuable for employee and external engagement, but the format has changed with COVID-19. Digital events in Microsoft Teams can be a single webinar, a large interactive meeting, an all-hands broadcast, or a multi-session, multi-track digital experience.  Microsoft Teams includes built-in capabilities for interactive meetings, large group meetings, and webinars. In this session we'll see how these capabilities come together with out-of-the-box Microsoft 365 solutions. 
 
