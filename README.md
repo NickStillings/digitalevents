@@ -1,42 +1,5 @@
-[Digital Events Overview](https://github.com/NickStillings/digitalevents/) | [Digital Event Planning](https://github.com/NickStillings/digitalevents/wiki/Digital-Event-Planning) | [Digital Event Venue](https://github.com/NickStillings/digitalevents/wiki/Digital-Event-Venue) | [Speaker Readiness](https://github.com/NickStillings/digitalevents/wiki/Speaker-Readiness) | [Webinars in Teams](https://github.com/NickStillings/digitalevents/wiki/Webinars-in-Teams) | [M365 Live Events](https://github.com/NickStillings/digitalevents/wiki/M365-Live-Events) | [Digital Event Toolkit](https://github.com/NickStillings/digitalevents/tree/main/Digital%20Toolkit)
----|---|---|---|---|---|---
-
-***
-## 04.30 | MN 365 User Group Admin Workshop Day Follow-up
-Thanks for joining the session at the MN 365 Admin Workshop Day! below are the questions from chat that I wasn't able to answer during the session:
-
-#### Virtual Event Ask Us Anything
-Join us for a Microsoft Teams ‘Ask Microsoft Anything’ (AMA) for Virtual Events.  This AMA gives you the opportunity to connect with members of the product engineering team who will be on hand to answer your questions and listen to feedback.
-
-- **Date: Wednesday, May 5, 2021**
-- **Time**: 11:00 a.m. to 12:00 p.m. Central Time
-- **Location**: [Microsoft Teams AMA Space](https://techcommunity.microsoft.com/t5/microsoft-teams-ama/bd-p/MicrosoftTeamsAMA)
-- **Details**: [Virtual Event Tech Community Announcement](https://techcommunity.microsoft.com/t5/virtual-events-and-webinars/announcing-a-microsoft-teams-ama-for-virtual-evets-in-microsoft/m-p/2295175)
-
-#### What solutions are there for users in a Low Bandwith situation (e.g. VPN) - Jessica H
-Great question, most of the answer is "it depends" because there are multiple things impacting bandwith.
-- We are rolling out "Low bandwidth mode", launched in March 2021, that will cap the data used in a Teams call. [Roadmap Details.](https://www.microsoft.com/en-us/microsoft-365/roadmap?filters=&searchterms=70786 "Roadmap Details.")
-- There is a loooong list of considerations to optimize a corporate network for Teams. [Take a look at the this page](https://docs.microsoft.com/en-us/microsoftteams/prepare-network#bandwidth-requirements "Take a look at the this page") in docs.
-- Turn off Incoming Video - An individual user can go to More Options > Turn Off Incoming Video in a meeting on a meeting-by-meeting basis
-- You should enable [split-tunneling in your VPN](https://docs.microsoft.com/en-us/microsoft-365/enterprise/microsoft-365-vpn-split-tunnel?view=o365-worldwide "split-tunneling in your VPN") to optimize the connection from the remote user to the Office 365 service. This can have a huge impact on M365 services.
-
-#### Do live captions work for everyone (guests, people joining in web client, etc)? We had some issues in the past with guests being able to enable live captiosn. - Tark S
-- [Live Captions](https://support.microsoft.com/en-us/office/use-live-captions-in-a-teams-meeting-4be2d304-f675-4b57-8347-cbd000a21260 "Live Captions") today are available in the Desktop (PC and Mac) and Mobile Clients. They have not released in the Mobile Clients in the Government Cloud, but should be on the desktop clients in a Microsoft 365 GCC subscriptions. It's also possible [they are turned off in the attendees tenant](https://docs.microsoft.com/en-us/powershell/module/skype/set-csteamsmeetingpolicy?view=skype-ps "they are turned off in the attendees tenant"). So If a user is joining a meeting with live captions turned in their organization's meetings policy, they can't use them. Otherwise Tark they should "just work" :-)
-
-#### What is the Attendee experience for View-Only Overview in regards to their identity - if they are anonymous users, guest users, etc. does that impact how the View-Only experience works? - Tim 
-- The attendees Join the meeting, then placed into View Only. So Tim they'd have to complete the meeting join experience (permissions, lobby experience) before getting to where Teams says "oh, meeting is full, here's view-only". So if you schedule a meeting, don't allow forwarding of the invite, and turn on meeting lobby: Attendee 1001 would need to be on the invite list, and admitted thru the lobby, then would get view only.  
-
-#### What's the link to that View-Only PowerShell comment? - Multiple people
-- Check out https://docs.microsoft.com/en-us/microsoftteams/view-only-meeting-experience.
-- Note that View Only is still rolling out for GCC, and hasn't released for the DoD tenant (if you're doing a webinar with Federal employees)
-
-#### Is there a way to send an email to Schedule a Meeting - Jason H
-- Yes, a lot of us Microsoft folks use https://findtime.microsoft.com. You need an Office 365 subscription to schedule it, but attendee don't to reply. 
-- If you want a non-O365 dependant service for private life, take a look at doodle.com. 
-
-#### Can we "lock" a meeting and prevent new attendees from joining - Brian C
-- It's on the roadmap! (the perpetual cry of the cloud vendor!!)
-- Check here Brian: https://www.microsoft.com/en-in/microsoft-365/roadmap?featureid=80669 Good to see you, thanks for the shout out!
+[Digital Events Overview](https://github.com/NickStillings/digitalevents/) | [Digital Event Planning](https://github.com/NickStillings/digitalevents/wiki/Digital-Event-Planning) | [Digital Event Venue](https://github.com/NickStillings/digitalevents/wiki/Digital-Event-Venue) | [Speaker Readiness](https://github.com/NickStillings/digitalevents/wiki/Speaker-Readiness) | [Webinars in Teams](https://github.com/NickStillings/digitalevents/wiki/Webinars-in-Teams) | [Town Halls](https://github.com/NickStillings/digitalevents/wiki/Town-Halls) | [M365 Live Events](https://github.com/NickStillings/digitalevents/wiki/M365-Live-Events) | [Digital Event Toolkit](https://github.com/NickStillings/digitalevents/tree/main/Digital%20Toolkit)
+---|---|---|---|---|---|---|---
 
 
 ***
