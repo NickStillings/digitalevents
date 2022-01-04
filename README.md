@@ -68,4 +68,5 @@ We learned four critical things from a year of shifting all our flagship confere
 
 **4. Connect with your audience**
 - Leverage interstitial content and a &quot;hero stream&quot; to anchor the attendee experience can ensure a connection throughout the event, while social media, in-session chat and event communities can drive ongoing connection with the audience.
+
 ![Examples of Hero Stream and Interstitial Content](https://github.com/NickStillings/digitalevents/blob/main/Wiki%20Images/wiki.digitalevents.3.hero.jpg)
