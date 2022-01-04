@@ -70,3 +70,15 @@ We learned four critical things from a year of shifting all our flagship confere
 - Leverage interstitial content and a &quot;hero stream&quot; to anchor the attendee experience can ensure a connection throughout the event, while social media, in-session chat and event communities can drive ongoing connection with the audience.
 
 ![Examples of Hero Stream and Interstitial Content](https://github.com/NickStillings/digitalevents/blob/main/Wiki%20Images/wiki.digitalevents.3.hero.jpg)
+
+
+
+***
+
+
+## Shorter is Better
+
+
+Shorter keynotes, breakouts, and sessions help with mental fatigue and give attendees an opportunity to refresh and reset. An ongoing interstitial stream can serve as an achor for the event experience.  This can be an "anchor desk" or event host stren, but it can be informal as well!  Something simple and fun that provides an ongoing experience can be just as valuable in keeping attendees connected throughout the event.
+
+![](https://github.com/NickStillings/digitalevents/blob/main/Wiki%20Images/wiki.planning.4.Interstitial.jpg)
