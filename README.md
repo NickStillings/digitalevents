@@ -60,6 +60,7 @@ We learned four critical things from a year of shifting all our flagship confere
 **2. Re-think your runway**
 - With a virtual event, there are no travel and entertainment costs for attendees, and as a result no &quot;cost&quot; to attending the event early. 
 - The attendee experience and engagement begins before the actual digital event begins, and continues after. Your digital event platform should include a toolset that allows engagement outside the timeframe of your actual event.
+
 ![Diagram of a digital event planning cycle](https://github.com/NickStillings/digitalevents/blob/main/Wiki%20Images/wiki.digitalevents.5.runway.jpg)
 
 **3. Earn attention, Keep attention**
